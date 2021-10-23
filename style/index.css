@@ -1,0 +1,32 @@
+body{
+    background-image: url(../images/daniel.jpg);
+    height: 100vh;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover
+}
+
+.ulist {
+    list-style: none;
+
+  }
+
+ li{
+     padding: 5px;
+ }
+ .btn{
+     color:darkslategray;
+     text-decoration: double;
+     font-size: 20px;
+ }
+
+ .float-container {
+    padding: 20px;
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+}  
